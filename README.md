@@ -1,4 +1,4 @@
 # Django-WebApp
 
-Website Link:
+Webapp Link:
 https://myfirstawsomewebapplication.herokuapp.com/
